@@ -113,7 +113,7 @@ fun GreetingSection(
             verticalArrangement = Arrangement.Center
         ) {
             Text(
-                text = "Android GPT  $name",
+                text = "ApertureAI  $name",
                 color = Color.White,
                 style = MaterialTheme.typography.h2
             )

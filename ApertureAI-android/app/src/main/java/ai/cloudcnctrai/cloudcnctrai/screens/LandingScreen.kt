@@ -39,7 +39,7 @@ fun LandingScreen(navController: NavController) {
                 .padding(horizontal = 50.dp)
         ) {
             Text(
-                text = "Android GPT",
+                text = "ApertureAI",
                 color = Color.White,
                 style = MaterialTheme.typography.h3
             )
